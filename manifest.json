@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "TutorTots",
+    "description": "This is an extension that helps you focus and increase productivity.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "/popup/popup.html",
+      "default_icon": "hello_extensions.png"
+    }
+  }
